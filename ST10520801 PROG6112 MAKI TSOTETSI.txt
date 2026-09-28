@@ -1,0 +1,8 @@
+Name: Maki
+Surname: Tsotesi
+Module: Programming
+STNO:ST10520801
+Group: 03
+
+Question 1: GamingReport
+Question 2: ConsoleSale
